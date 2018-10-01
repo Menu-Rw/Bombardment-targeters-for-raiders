@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationAdd">
+        <xpath>*/ThingDef[@Name = "OrbitalWeaponBase"]</xpath>
+        <value>
+          <weaponTags>
+            <li>SpacerConsumable</li>
+          </weaponTags>
+        </value>
+    </Operation>
+</Patch>

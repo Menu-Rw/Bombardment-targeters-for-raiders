@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  	<Operation Class="PatchOperationAdd">
+		<xpath>*/PawnKindDef[@Name = "MercenaryEliteTierBase"]/weaponTags</xpath>  <!-- Pirate "normal" group -->
+		<value>
+			<li>SpacerConsumable</li> 
+		</value>
+	</Operation> 
+</Patch>
