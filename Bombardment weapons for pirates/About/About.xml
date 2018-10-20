@@ -3,6 +3,6 @@
 		<name>Bombardment weapons for pirates</name>
 		<author>Menu</author>
 		<url></url>
-		<targetVersion>0.19.0</targetVersion>
+		<targetVersion>1.0.0</targetVersion>
 		<description>Elite pirates now can use orbital bombardment targeters, power beams and tornado generators!</description>
     </ModMetaData>
